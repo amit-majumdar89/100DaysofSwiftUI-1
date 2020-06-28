@@ -20,3 +20,5 @@ Repository made for the Developer who wants to learn SwiftUI in 100 days.
 * We will cover the setup part of project with component 1 in Week 1
 
 #### Component-1(Day 1-5): Text in SwiftUI (10 points)
+
+https://github.com/NilaakashSingh/SwiftUIStarter/commit/5e77e0b22b3f4a0762eba04c074199b42a643b47 -- Neel

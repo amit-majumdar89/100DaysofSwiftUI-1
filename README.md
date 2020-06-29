@@ -26,3 +26,4 @@ https://github.com/ChinmayDB/SwiftUI/commit/2707cdea5877fb9ac37335881ac884b14802
 https://github.com/shaharukhs/SwiftUILearning/commit/564510d9794780e30a9718a7a49e2f77cf0aa708 - Shahrukh Shikalgar
 https://github.com/KhamkhaDeveloper/100DaysOfSwiftUI/commit/e63002e14ae0093263c77da60609e55a581afdaf - Deepak Carpenter
 https://github.com/amit-majumdar89/100DaysOfSwiftUI/commit/7008b89fdffe0d7b146e6f7e3f59b42c4947f12b -- Amit Majumdar
+https://github.com/swapnil-salunke/100DaysOfSwiftUI/commit/708e141012780e4539062db16dedffb583365885 - Swapnil Salunke

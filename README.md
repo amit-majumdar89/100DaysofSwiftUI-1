@@ -32,5 +32,6 @@ https://github.com/rasika-punde/100DaysOfSwiftUI/commit/7e67949c163f17f9574c163e
 https://github.com/harshadkhedekar/SwiftUI/commit/87f810de05a2f34602a53efc6d549d8a61f0a418 - Harshad Khedekar
 https://github.com/Supratik92/SwiftUIStarter/commit/c1380d4d8723b8df52ea67ede7f4d18340426799 - Supratik Banerjee
 https://github.com/divyajain90/100DaysOfSwiftUI/commit/1d308679586207c6850957fdc1870d7fc2a7a3ef - Divya Jain
+https://github.com/prik007/100DaysOfSwiftUI/commit/737ee9c95be2b2c503f2c1fbdc4e1ecfea984193 - Pritha
 
 #### Component-2(Day 5-10): Image in SwiftUI (10 points)
